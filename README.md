@@ -1,47 +1,33 @@
-<div align="left">
+# Hi, I'm Öykü Özkan 👋
 
-Hi, I'm Öykü Özkan 👋
+🎓 **Industrial Engineering Student at Marmara University**
 
-Industrial Engineering Student at Marmara University
-
-I'm interested in Operations Research, Optimization, Data Science, and Software Development.
+I'm interested in **Optimization, Data Science, and Software Development**.
 
 I enjoy combining analytical thinking with programming to solve real-world problems and improve decision-making processes.
 
-🔍 Areas of Interest
+---
 
-Operations Research and Mathematical Optimization
+## 🔍 Areas of Interest
 
-Data Analysis and Business Intelligence
+- Mathematical Optimization
+- Data Analysis and Business Intelligence
+- Software Development
+- Process Improvement and Automation
 
-Software Development
+## 🛠️ Technologies & Tools
 
-Process Improvement and Automation
+- **Programming Languages:** Python, Java, C#
+- **Backend Development:** Spring Boot
+- **Data & Business Intelligence:** Power BI
+- **Robotic Process Automation (RPA):** Robusta RPA, Microsoft Power Automate
+- **Version Control:** Git, GitHub
 
-🛠️ Technologies & Tools
+## 📌 What I'm Working On
 
-Programming Languages: Python, Java, C#
+- Exploring optimization models and operations research applications
+- Developing software projects
+- Improving my data analysis and automation skills
 
-Backend Development: Spring Boot
 
-Data & Business Intelligence: Power BI
-
-Robotic Process Automation (RPA): Robusta RPA, Microsoft Power Automate
-
-Version Control: Git, GitHub
-
-📌 What I'm Working On
-
-Exploring optimization models and operations research applications
-
-Developing software projects
-
-Improving my data analysis and automation skills
-
-📫 Connect with Me
-
-LinkedIn: Add your LinkedIn profile URL here
-
-Always learning, building, and exploring new ways to solve problems.
-
-</div>
+---

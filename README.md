@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Öykü Özkan 👋
 
-<!--
-**oykuozkan/oykuozkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Industrial Engineering Student at Marmara University
 
-Here are some ideas to get you started:
+I'm interested in Operations Research, Optimization, Data Science, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy combining analytical thinking with programming to solve real-world problems and improve decision-making processes.
+
+🔍 Areas of Interest
+
+Operations Research and Mathematical Optimization
+
+Data Analysis and Business Intelligence
+
+Software Development
+
+Process Improvement and Automation
+
+🛠️ Technologies & Tools
+
+Programming Languages: Python, Java, C#
+
+Backend Development: Spring Boot
+
+Data & Business Intelligence: Power BI
+
+Robotic Process Automation (RPA): Robusta RPA, Microsoft Power Automate
+
+Tools & Platforms: Git, GitHub
